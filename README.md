@@ -3,4 +3,4 @@
 	payton lin<br>
  	zachary liu<br>
 	max wong</br></p>
-</br>Project Description:
+Project Description:
