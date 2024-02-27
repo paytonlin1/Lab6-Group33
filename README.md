@@ -1,7 +1,7 @@
 # Lab6-Group33
 Group Members:
-	payton lin 
- 	zachary liu
-	max wong
+	payton lin \n
+ 	zachary liu \n
+	max wong \n
  
 Project Description:
