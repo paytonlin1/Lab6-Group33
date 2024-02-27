@@ -1,4 +1,4 @@
-# Lab6-Group33
+# [Lab6]-Group(33)
 #### Group Members:
 payton lin<br>
 zachary liu<br>
