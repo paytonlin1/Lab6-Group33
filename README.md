@@ -4,3 +4,4 @@ payton lin<br>
 zachary liu<br>
 max wong</br>
 #### Project Description:
+Takes the name and age of the user then prints it
